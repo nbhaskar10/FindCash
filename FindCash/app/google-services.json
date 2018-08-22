@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "248466805920",
+    "firebase_url": "https://findcash-13d2e.firebaseio.com",
+    "project_id": "findcash-13d2e",
+    "storage_bucket": "findcash-13d2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248466805920:android:32865348852d38fa",
+        "android_client_info": {
+          "package_name": "sdkcash.findcash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248466805920-r7idbqbuo3cft0v70194llidg6brkto2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sdkcash.findcash",
+            "certificate_hash": "49d44f8a8b8dee018a8f3fd0b824759f253cf798"
+          }
+        },
+        {
+          "client_id": "248466805920-1hnh0hbh5v67k5bqahb17voujcb5ra9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjpiAJoK7HR00qLqvcddMr1wKnz2geryM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248466805920-1hnh0hbh5v67k5bqahb17voujcb5ra9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
